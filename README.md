@@ -63,13 +63,13 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-## 😄 Criadores e Fundadores do projeto
+## 😄 Fundadores do projeto
 
 <table>
   <tr>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="" width="100px;" alt="Foto do Lucas Galarani"/><br>
+        <img src="https://avatars.githubusercontent.com/u/111251426?v=4" width="100px;" alt="Foto do Lucas Galarani"/><br>
         <sub>
           <b>Lucas Galarani</b>
         </sub>
@@ -77,7 +77,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="" width="100px;" alt="Foto do Caio Vitor"/><br>
+        <img src="https://avatars.githubusercontent.com/u/179930905?v=4" width="100px;" alt="Foto do Caio Vitor"/><br>
         <sub>
           <b>Caio Vitor</b>
         </sub>
@@ -88,4 +88,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto contém direitos autorais podendo ser apenas utilizando por instituições academicas.
