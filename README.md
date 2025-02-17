@@ -9,7 +9,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 - [x] Criação da Identidade Visual
-- [ ] Design de páginas no figma
+- [x] Design de páginas no figma
 - [ ] Desenvolvimento do front end com html e css
 - [ ] Aprimoramento do front end com Javascript
 - [ ] Integração do back end com PHP e PostreSQL
